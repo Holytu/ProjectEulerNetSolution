@@ -15,7 +15,7 @@ int main()
 	int test = 0;
 	string inputStr;
 
-	file.open("p042_words.txt", ios::in);
+	file.open("EulerNet_Problem_042.txt", ios::in);
 
 	if(!file)
 	{
